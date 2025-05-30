@@ -1,4 +1,4 @@
-# Journal Entry - [DATE]
+# Further Explanation - https://klubrusa.gitbook.io/klubrusa/page
 
 ## Overview
 - **Date**: 2025-05-30
