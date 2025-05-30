@@ -1,4 +1,4 @@
-## Pyrthon4All
+## Python4All
 
 typing guide in markdown 
 - use \` at the beginning and the end of sentence for get this kind of result `hello`
