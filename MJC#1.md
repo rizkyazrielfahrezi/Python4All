@@ -1,4 +1,4 @@
-# Further Explanation - https://klubrusa.gitbook.io/klubrusa/page
+# Further Explanation - [https://klubrusa.gitbook.io/klubrusa/page](https://klubrusa.gitbook.io/klubrusa/merging-dataframe)
 
 ## Overview
 - **Date**: 2025-05-30
